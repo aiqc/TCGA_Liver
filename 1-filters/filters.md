@@ -12,6 +12,9 @@
 
 ![](clinical.png)
 
+(i did not update the numbers below to reflect T1 inclusion)
+
+
 4. Click button to download the clinical:TSV button
 
 5. Click on "View files in repository" button in top right
