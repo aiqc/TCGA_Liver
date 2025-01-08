@@ -1,4 +1,4 @@
-# Germline WXS Minimally Invasive Lung Cancer
+# Germline WXS Liver
 
 1. Select lung on the image map of the right hand side of https://portal.gdc.cancer.gov/
 
